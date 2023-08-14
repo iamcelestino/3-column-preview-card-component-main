@@ -8,8 +8,8 @@
 
 ### Links
 
-- Solution URL: [solution URL here]()
-- Live Site URL: [live site URL here]()
+- Solution URL: [solution URL here](https://github.com/iamcelestino/3-column-preview-card-component-main.git)
+- Live Site URL: [live site URL here](https://iamcelestino.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
